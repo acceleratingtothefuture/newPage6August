@@ -2,7 +2,7 @@
 * { box-sizing: border-box; }
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Inter', sans-serif;
   background: #f8f9fa;
   color: #222;
 }
@@ -73,4 +73,5 @@ body {
   font-size: 1.3rem;
   color: #444;
   font-weight: 500;
+
 }
